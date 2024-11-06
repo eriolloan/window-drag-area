@@ -1,0 +1,10 @@
+{
+	"id": "window-drag-area",
+	"name": "SWindow Drag Area",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Adds an invisible area at the top to drag the window.",
+	"author": "eriolloan",
+	"authorUrl": "https://github.com/eriolloan",
+	"isDesktopOnly": false
+}
